@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 23 15:47:48 BST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016c-1f4d-7fc9-0000062a16b0 
+on database directory /Users/nikolayvaklinov/Desktop/GitHub_Projects/Spark_The_Definitive_Guide/||.Structured_APIs-DataFrames,SQL,andDatasets/5.Basic_Structured_Operations/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1b167b6e 
+Loaded from file:/Users/nikolayvaklinov/server/spark-2.3.3-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=/Users/nikolayvaklinov/Desktop/GitHub_Projects/Spark_The_Definitive_Guide/||.Structured_APIs-DataFrames,SQL,andDatasets/5.Basic_Structured_Operations
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
